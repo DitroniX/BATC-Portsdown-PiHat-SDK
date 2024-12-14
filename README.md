@@ -1,3 +1,4 @@
+
 **BATC-Portsdown-PiHat-SDK** - PREVIEW
 
 BATC Portsdown Raspberry Pi PiHat SDK - Preliminary Information can be found
@@ -9,14 +10,26 @@ https://www.hackster.io/DitroniX/batc-raspberry-pi-portsdown-controller-sdk-545b
 
 Top Level **PREVIEW** Features:
 
-The  **BATC-Portsdown-PiHat-SDK**  board main features:
+The  **BATC Portsdown PiHat SDK**  board main features:
 
 -   **Compact**  and  **Flexible Design**  SDK Board
-    -   All connections are  **low voltage**, for  **safe operation**
-    -   **Easy to interface**
--   _Designed to fit on a Raspberry Pi
+    -   All connections are  low voltage for  safe operation
+    -   Easy to interface
+    -   Designed to fit on a Raspberry Pi  and 5
 
--   
+-   **Wish List for the Board (expanding and WIP)**
+	- HMDI Switch (3 into 1)
+	- HDMI EDID EEPROM
+	- 12V SMPS (DC-DC), to externally power the Pi and board from 12V
+	- RTC with Battery (maybe rechargeable pending space)
+	- IR LED Control (TX/RX)
+	- Audio Matrix Switch (Reliable concept possibly based on my VMAC board)
+	- GPIO Headers
+	- Isolated TX PTT Output
+	- Isolated TX Power Amplifier Control Output
+	- Isolated GPIOs from Pi
+	- Isolated GPIOs from I2C Switch
+
 Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
 ## **Further Information**
 
