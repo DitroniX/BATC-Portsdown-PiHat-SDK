@@ -1,6 +1,7 @@
 **BATC-Portsdown-PiHat-SDK** - PREVIEW
 
-BATC Portsdown Raspberry Pi PiHat SDK
+BATC Portsdown Raspberry Pi PiHat SDK - Preliminary Information can be found
+https://www.hackster.io/DitroniX/batc-raspberry-pi-portsdown-controller-sdk-545ba5 
 
 ***SDK available - January 2025***   Please contact us for further details.
 
