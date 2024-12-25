@@ -6,8 +6,8 @@ https://www.hackster.io/DitroniX/batc-raspberry-pi-portsdown-controller-sdk-545b
 
 ***SDK available - January 2025***   Please contact us for further details.
 
-![BATC Portsdown PiHat SDK Beta Board on Raspberry Pi 5](https://github.com/DitroniX/BATC-Portsdown-PiHat-SDK/blob/main/Datasheets%20and%20Information/DitroniX.net%20Raspberry%20Pi%205%20-BATC%20Repeater%20Alpha%20Fitted.jpg)
-BATC Portsdown PiHat SDK Beta Board on Raspberry Pi 5
+![BATC Portsdown Repeater PiHat SDK Beta Board on Raspberry Pi 5](https://github.com/DitroniX/BATC-Portsdown-PiHat-SDK/blob/main/Datasheets%20and%20Information/DitroniX.net%20Raspberry%20Pi%205%20-BATC%20Repeater%20Alpha%20Fitted.jpg)
+BATC Portsdown Repeater PiHat SDK Alpha Board on Raspberry Pi 5
 
 Top Level **PREVIEW** Features:
 
